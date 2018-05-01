@@ -166,7 +166,6 @@ function updateR(req,res) {
 
 }
 
-connection.end();
 
 module.exports = {
   getRecetas,
